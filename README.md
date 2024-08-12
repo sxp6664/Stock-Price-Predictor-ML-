@@ -15,6 +15,3 @@ This project involves developing a sophisticated machine learning model for pred
 - `model_training.py`: For training the machine learning model.
 - `model_evaluation.py`: For evaluating the model.
 - `deployment.py`: For deploying the model on a cloud platform.
-
-## License
-This project is licensed under the MIT License.
